@@ -10,11 +10,11 @@ I've created one database with two tables, one for the users info and the other 
 ## What can I do in this app? 
 
 First you have to sign up in the signup page. 
-Your information is going to go to the database sou when you leave the page and want to login with you created account, you will be able to do it. 
+Your information is going to go to the database so when you leave the page and want to login with your created account, you will be able to do it. 
 
 Also you are able to chat with other users that are registered in the app, you can send messages and these are going to be displayed in your chat-box, the messages are going to be store in a database so you will be able to see the whole conversation when you login again to the app.  
 
-Also it shows you when a user is active or not, by seing the little circle at the end of the user-box in your users list.
+Also it shows you when a user is active or not, by seing the little circle at the edge of the user-box in your users list.
 
 You can logout whenever you want and start a session in another new account. :)
 
