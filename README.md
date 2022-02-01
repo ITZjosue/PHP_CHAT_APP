@@ -21,5 +21,14 @@ You can logout whenever you want and start a session in another new account. :)
 
 You can see a live demo here: https://josuechatapp.000webhostapp.com/
 
+- Here you have two test accounts: 
 
+#
 
+ <li>email: lala@gmail.com
+ <li>password: 12345
+   
+ #
+   
+ <li>email: san@gmail.com
+ <li>password: 12345
